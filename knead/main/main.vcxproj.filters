@@ -24,6 +24,9 @@
     <ClInclude Include="src\skeleton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\skeleton.cpp">

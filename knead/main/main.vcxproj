@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\manacher.h" />
+    <ClInclude Include="src\math.h" />
     <ClInclude Include="src\sieve.h" />
     <ClInclude Include="src\skeleton.h" />
   </ItemGroup>

@@ -7,4 +7,7 @@
 
 #include "gtest/gtest.h"
 
+#include "../main/src/skeleton.h"
+
 #include "../main/src/manacher.h"
+#include "../main/src/math.h"
