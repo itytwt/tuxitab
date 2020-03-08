@@ -1,12 +1,18 @@
 #pragma once
 /* @snippet:skeleton */
 /* @order:0 */
-#include <iostream>
 #include <algorithm>
-#include <string>
-#include <vector>
+#include <cctype>
 #include <cmath>
+#include <deque>
+#include <iostream>
+#include <limits>
 #include <map>
+#include <numeric>
+#include <set>
+#include <string>
+#include <utility>
+#include <vector>
 #ifdef debug
 #define ifdebug(x) {x}
 #else
